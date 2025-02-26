@@ -3,7 +3,7 @@
 The Weather Report Management System is a Spring Boot application that allows users to store, retrieve, update, and delete weather reports from a database. It provides a RESTful API to interact with weather data, including temperature, conditions, and city-based reports.
 
 # Tech Stack
-- Java 21
+- Java 23
 - Spring Boot 3.3.8
 - Spring Data JPA
 - MySQL Database
